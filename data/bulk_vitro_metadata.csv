@@ -1,0 +1,17 @@
+﻿SampleID,Treatment,UserFriendlyID,RID,IAPi,Cytokine,Condition
+S1,Vehicle,veh-1,veh.1,NoLCL,NoCytokine,NoCytokine
+S2,Vehicle,veh-2,veh.2,NoLCL,NoCytokine,NoCytokine
+S3,IFNg,IFNg-1,IFNg.1,NoLCL,WithCytokine,WithCytokine
+S4,IFNg,IFNg-2,IFNg.2,NoLCL,WithCytokine,WithCytokine
+S5,LT,LT-1,LT.1,NoLCL,WithCytokine,WithCytokine
+S6,LT,LT-2,LT.2,NoLCL,WithCytokine,WithCytokine
+S7,TNFa,TNFa-1,TNFa.1,NoLCL,WithCytokine,WithCytokine
+S8,TNFa,TNFa-2,TNFa.2,NoLCL,WithCytokine,WithCytokine
+S9,LCL,LCL-1,LCL.1,LCL,NoCytokine,LCLNoCytokine
+S10,LCL,LCL-2,LCL.2,LCL,NoCytokine,LCLNoCytokine
+S11,LCL-IFNg,LCL-IFNg-1,LCL.IFNg.1,LCL,WithCytokine,LCLWithCytokine
+S12,LCL-IFNg,LCL-IFNg-2,LCL.IFNg.2,LCL,WithCytokine,LCLWithCytokine
+S13,LCL-LT,LCL-LT-1,LCL.LT.1,LCL,WithCytokine,LCLWithCytokine
+S14,LCL-LT,LCL-LT-2,LCL.LT.2,LCL,WithCytokine,LCLWithCytokine
+S15,LCL-TNFa,LCL-TNFa-1,LCL.TNFa.1,LCL,WithCytokine,LCLWithCytokine
+S16,LCL-TNFa,LCL-TNFa-2,LCL.TNFa.2,LCL,WithCytokine,LCLWithCytokine
